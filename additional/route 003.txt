@@ -1,0 +1,66 @@
+insert into bus_journey values(63,'2020-12-01','Kochi','Chennai','20:00:00','09:45:00',1,700);
+
+insert into bus_journey values(64,'2020-12-02','Chennai','Kochi','22:00:00','11:00:00',1,700);
+
+insert into bus_journey values(65,'2020-12-03','Kochi','Chennai','15:45:00','05:00:00',3,1000);
+
+insert into bus_journey values(66,'2020-12-04','Chennai','Kochi','15:00:00','04:00:00',3,1000);
+
+insert into bus_journey values(67,'2020-12-05','Kochi','Chennai','21:00:00','10:45:00',2,1200);
+
+insert into bus_journey values(68,'2020-12-06','Chennai','Kochi','20:00:00','09:30:00',2,1200);
+
+insert into bus_journey values(69,'2020-12-07','Kochi','Chennai','19:30:00','08:00:00',5,1500);
+
+insert into bus_journey values(70,'2020-12-08','Chennai','Kochi','22:00:00','11:00:00',5,1500);
+
+insert into bus_journey values(71,'2020-12-09','Kochi','Chennai','20:00:00','09:45:00',1,700);
+
+insert into bus_journey values(72,'2020-12-10','Chennai','Kochi','22:00:00','11:00:00',1,700);
+
+insert into bus_journey values(73,'2020-12-11','Kochi','Chennai','15:45:00','05:00:00',3,1000);
+
+insert into bus_journey values(74,'2020-12-12','Chennai','Kochi','15:00:00','04:00:00',3,1000);
+
+insert into bus_journey values(75,'2020-12-13','Kochi','Chennai','21:00:00','10:45:00',2,1200);
+
+insert into bus_journey values(76,'2020-12-14','Chennai','Kochi','20:00:00','09:30:00',2,1200);
+
+insert into bus_journey values(77,'2020-12-15','Kochi','Chennai','19:30:00','08:00:00',5,1500);
+
+insert into bus_journey values(78,'2020-12-16','Chennai','Kochi','22:00:00','11:00:00',5,1500);
+
+insert into bus_journey values(79,'2020-12-17','Kochi','Chennai','20:00:00','09:45:00',1,700);
+
+insert into bus_journey values(80,'2020-12-18','Chennai','Kochi','22:00:00','11:00:00',1,700);
+
+insert into bus_journey values(81,'2020-12-19','Kochi','Chennai','15:45:00','05:00:00',3,1000);
+
+insert into bus_journey values(82,'2020-12-20','Chennai','Kochi','15:00:00','04:00:00',3,1000);
+
+insert into bus_journey values(83,'2020-12-21','Kochi','Chennai','21:00:00','10:45:00',2,1200);
+
+insert into bus_journey values(84,'2020-12-22','Chennai','Kochi','20:00:00','09:30:00',2,1200);
+
+insert into bus_journey values(85,'2020-12-23','Kochi','Chennai','19:30:00','08:00:00',5,1500);
+
+insert into bus_journey values(86,'2020-12-24','Chennai','Kochi','22:00:00','11:00:00',5,1500);
+
+insert into bus_journey values(87,'2020-12-25','Kochi','Chennai','20:00:00','09:45:00',1,700);
+
+insert into bus_journey values(88,'2020-12-26','Chennai','Kochi','22:00:00','11:00:00',1,700);
+
+insert into bus_journey values(89,'2020-12-27','Kochi','Chennai','15:45:00','05:00:00',3,1000);
+
+insert into bus_journey values(90,'2020-12-28','Chennai','Kochi','15:00:00','04:00:00',3,1000);
+
+insert into bus_journey values(91,'2020-12-29','Kochi','Chennai','21:00:00','10:45:00',2,1200);
+
+insert into bus_journey values(92,'2020-12-30','Chennai','Kochi','20:00:00','09:30:00',2,1200);
+
+insert into bus_journey values(93,'2020-12-31','Kochi','Chennai','19:30:00','08:00:00',5,1500);
+
+insert into bus_journey values(94,'2020-12-31','Chennai','Kochi','22:00:00','11:00:00',5,1500);
+
+
+

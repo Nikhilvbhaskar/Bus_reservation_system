@@ -1,0 +1,42 @@
+insert into bus_journey values(1,'2020-12-03','Kochi','Bangalore','21:00:00','06:00:00',1,1000);
+
+insert into bus_journey values(1,'date','Kochi','Bangalore','21:20:00','07:00:00',2,1200);
+
+insert into bus_journey values(1,'date','Kochi','Bangalore','20:00:00','05:30:00',5,1500);
+
+insert into bus_journey values(2,'date','Bangalore','Kochi','21:00:00','06:30:00',1,1000);
+
+insert into bus_journey values(2,'date','Bangalore','Kochi','20:30:00','09:00:00',2,1200);
+
+insert into bus_journey values(2,'date','Bangalore','Kochi','20:00:00','06:00:00',5,1500);
+
+insert into bus_journey values(3,'date','Kochi','Goa','20:00:00','20:00:00',4,3999);
+
+insert into bus_journey values(3,'date','Kochi','Goa','19:20:00','20:00:00',2,3499);
+
+insert into bus_journey values(4,'date','Goa ','Kochi','17:30:00','18:00:00',4,3999);
+
+insert into bus_journey values(4,'date','Goa','Kochi','12:00:00','11:00:00',2,3599);
+
+insert into bus_journey values(5,'date','Kochi','Chennai','20:00:00','09:45:00',1,700);
+
+insert into bus_journey values(5,'date','Kochi','Chennai','15:45:00','05:00:00',3,1000);
+
+insert into bus_journey values(5,'date','Kochi','Chennai','21:00:00','10:45:00',2,1200);
+
+insert into bus_journey values(5,'date','Kochi','Chennai','19:30:00','08:00:00',5,1500);
+
+insert into bus_journey values(6,'date','Chennai','Kochi','22:00:00','11:00:00',1,700);
+
+insert into bus_journey values(6,'date','Chennai','Kochi','15:00:00','04:00:00',3,1000);
+
+insert into bus_journey values(6,'date','Chennai','Kochi','20:00:00','09:30:00',2,1200);
+
+insert into bus_journey values(6,'date','Chennai','Kochi','22:00:00','11:00:00',5,1500);
+
+
+
+
+
+
+
